@@ -1,0 +1,17 @@
+h1 {
+    background-color: rgb(146, 146, 208);
+}
+
+li {
+    color: aqua;
+    font-size: large;
+}
+
+#food-title {
+    color: chartreuse;
+}
+
+.food .foreign {
+    font-weight: 800;
+    color: blue;
+}
